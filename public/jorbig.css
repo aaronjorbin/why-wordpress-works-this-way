@@ -1,0 +1,17 @@
+body {
+  font-family: 'Verlag Cond A', 'Verlag Cond B'; 
+  font-weight: 200; 
+  letter-spacing:0;
+  color: #424242;
+  background: #E9E9E9;
+}
+
+small{
+	font-size: 50%;
+}
+
+em, a {
+  font-style:normal;
+  font-weight:700;
+  color: #2727AD;
+}

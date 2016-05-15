@@ -1,0 +1,92 @@
+Why <em>W</em>ord<em>P</em>ress Works This Way 
+Onboarding at an early job
+Rainforest 
+Rarity: Everyone starts at once [[Everyone starting a job at the same time is a luxury we rarely have #wcphilly]]
+WordPress doesn't have that luxury
+Matt: 0 days
+Mark Jaquith: <em>2</em> years [[The first WordPress props @markjaquith earned:  https://core.trac.wordpress.org/changeset/2794 #wcphilly]]
+Andrew Ozz: <em>4</em> years [[The first WordPress props @azaozz earned: https://core.trac.wordpress.org/changeset/5487 #wcphilly]]
+Dion Hulse: <em>4</em> years[[The first WordPress props @azaozz earned: https://core.trac.wordpress.org/changeset/5803 #wcphilly]]
+Andrew Nacin: <em>6</em> years[[The first WordPress props @azaozz earned: https://core.trac.wordpress.org/changeset/12192 #wcphilly]]
+Helen Hou-Sandí: <em>8</em> years [[The first WordPress props @azaozz earned: https://core.trac.wordpress.org/changeset/18362 #wcphilly]]
+96 <em>new</em> contributors in 4.2 [[96 people recieved props in WordPress 4.2 that had never recieved them before #wcphilly]]
+To 12 year old software
+Most of us aren't working on 12 year old software
+We can <em>learn</em> from it though
+Contributing is <em>not</em> frictionless
+Conflict Is <em<Natural</em>
+Resolving Conflict is not
+Projects <em>die</em> due to conflict
+People <em>quit</em> due to Conflict
+Get On The Same Page
+G.R.I.P.I
+<em>Goals</em>
+What is everyone's Goal?
+<em>Roles</em>
+Is it clear what each Person's Role is? 
+<em>Information</em>
+Does Everyone have the information they need?
+<em>Process</em>
+Is the Process Clear? Is it Right?
+<em>Interpersonal</em>
+It's not Interpersonal
+80% of the time: The cause is a Goals issue
+How do we Solve Goals Issues?
+Unified Project Philosophy
+<em>Philosophy Driven Development</em>
+Democratize Publishing [[On a mission to democratise publishing - a 2013 @photomatt interview  http://www.theguardian.com/media-network/media-network-blog/2013/sep/03/democratise-publishing-matt-mullenwegg-cloud #wcphilly]]
+A Clear Goal
+<em>Out Of the Box</em>
+Little Configuration [[Great software should work with little configuration #wcphilly]]
+Famous <em>Five</em> Minute Install
+Emoji
+Design for <em>Majority</em>
+Most users are <em>not</em> technical [[The average WordPress user simply wants to be able to write without problems or interruption. #wcphilly]]
+A solid array of basic features
+Majority of users shouldn't want to turn off features
+Not adding features, is a feature
+Take on Technical Debt[[WordPress takes on technical debt so it's users don't have to #wcphilly]]
+My first patch [[The first patch I ever proposed for WordPress was rejected.  Now I can look back and say this was the correct decision #wcphilly]]
+Menus in the Customizer 
+<em>Decisions,</em> Not Options
+Options are <em>expensive</em>[[In Open Source, Learn to Decide - @nacin explains some of the roots of the Decisions, Not Options paradigm http://nacin.com/2011/12/18/in-open-source-learn-to-decide/ #wcphilly]]
+Havoc Pennington [[The most important person to WordPress to core development who hasn't contributed code is @havocp #wcphilly]]
+Too many preferences means you can’t find any of them. [[Essay on Understanding the cost of preferences and options http://ometer.com/preferences.html #wcphilly]]
+Preferences really substantively damage QA and testing.
+Preferences make integration and good UI difficult.
+Preferences can confuse many users.
+Auto Updates: Adding an option was never an option
+Striving for <em>Simplicity</em>
+Ease of Use matters
+Link Manager
+Link Pasting
+Accessibility
+Deadlines are not Arbitrary [[Deadlines Are Not Arbitrary - A short essay by @photomatt https://make.wordpress.org/core/2010/04/20/deadlines-are-not-arbritrary-theyre-a/ #wcphilly]]
+Delaying a release for that one-more-feature is a rabbit hole [[Delaying a release for that one-more-feature is a rabbit hole, but not literally a rabbit hole #wcphilly]]
+Real Users in the Real World mean Real Feedback 
+The Vocal Minority
+1% are vocal
+Controversy is Normal
+Emoji
+Inline Plugin Updates
+Menus
+Multisite
+Customizer
+Talk with Users
+User Testing [[At WordCamp San Francisco 2014, core team members did live user testing http://aaron.jorb.in/blog/2014/12/user-testing-wordpress-at-wordcamp-san-francisco/ #wcphilly]]
+Document Flows
+Drupal Values
+Teamwork, innovation, and openness in our community;
+Joomla Vision
+A community that is enjoyable and rewarding to participate in
+Where is Community in our Philosophies?
+Our Bill of Rights[[The GPL is the the WordPress Bill of Rights #wcphilly]]
+The freedom to run the program, for any purpose.
+The freedom to redistribute.
+The freedom to distribute copies of your modified versions to others.
+The freedom to study how the program works, and change it to make it do what you wish.
+Study, not just the code
+Organizational <em>Debt</em>[[Organizational Debt is like Technical debt – but worse http://steveblank.com/2015/05/19/organizational-debt-is-like-technical-debt-but-worse/ #wcphilly]]
+Philosophy<em>Drives</em> Development[[By having strong philosophies, WordPress minimizes organizational debt. #wcphilly]]
+Users <em>Drive</em> WordPress
+Aaron&nbsp;Jorbin<br/><br />aaron.jorb.in<br/>@aaronjorbin<br/>[[Thanks for following along.  Come say Hi! #wcphilly]]
